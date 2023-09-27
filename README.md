@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/shu-illy/shu-illy/">
-    <img height="20" src="https://komarev.com/ghpvc/?username=shu-illy" alt="shu-illy" />
+    <img height="16" src="https://komarev.com/ghpvc/?username=shu-illy" alt="shu-illy" />
   </a>
   <a href="https://github.com/shu-illy">
-    <img height="20" src="https://img.shields.io/github/followers/shu-illy?label=follow&logo=github&style=flat" />
+    <img height="16" src="https://img.shields.io/github/followers/shu-illy?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
