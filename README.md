@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/shu-illy/shu-illy/">
-    <img height="10" src="https://komarev.com/ghpvc/?username=shu-illy" alt="shu-illy" />
+    <img height="24" src="https://komarev.com/ghpvc/?username=shu-illy" alt="shu-illy" />
   </a>
   <a href="https://github.com/shu-illy">
-    <img height="10" src="https://img.shields.io/github/followers/shu-illy?label=follow&logo=github&style=flat" />
+    <img height="24" src="https://img.shields.io/github/followers/shu-illy?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu-illy&layout=compact&theme=highcontrast" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=shu-illy&show_icons=true&theme=highcontrast" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu-illy&layout=compact&theme=highcontrast" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=shu-illy&show_icons=true&theme=highcontrast" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shu-illy&theme=alduin&column=9)](https://github.com/ryo-ma/github-profile-trophy)
