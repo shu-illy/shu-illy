@@ -1,5 +1,3 @@
-### Hi! I'm shu-illy 👋
-
 <!--
 **shu-illy/shu-illy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/shu-illy/shu-illy/">
-    <img src="https://komarev.com/ghpvc/?username=shu-illy" alt="shu-illy" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=shu-illy" alt="shu-illy" />
   </a>
   <a href="https://github.com/shu-illy">
     <img height="20" src="https://img.shields.io/github/followers/shu-illy?label=follow&logo=github&style=flat" />
